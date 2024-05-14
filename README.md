@@ -1,4 +1,4 @@
-# Selenium-Pytest-End2End-Jenkins
+# Selenium Pytest End2End Jenkins CI/CD
 
 This project is a comprehensive demonstration of testing automation skills using pytest and Selenium, coupled with CI/CD integration through Jenkins. It's structured into three main parts, each focusing on different aspects of testing and automation:
 
@@ -35,10 +35,12 @@ This part demonstrates the integration of the testing suite with Jenkins for con
 - **Repository Integration**: Explains how to extract tests from the GitHub repository.
 - **Environment Setup**: Details on configuring the testing environment within Jenkins.
 
-
+![SeleniumPytestJenkinsConfig-ezgif com-speed](https://github.com/mHassanein96/Selenium-Pytest-End2End-Jenkins/assets/133708970/1bc8500d-e36a-435e-b393-dd94235e8219)
 
 - **Test Execution**: Steps to run the tests automatically triggered by Jenkins.
 - **Reporting**: Exporting test reports in Allure and HTML formats for comprehensive result analysis.
+
+![SeleniumPytestJenkinsReport-ezgif com-speed](https://github.com/mHassanein96/Selenium-Pytest-End2End-Jenkins/assets/133708970/14c77acb-d82a-4701-a69d-637ce0ff43af)
 
 ## Demonstration:
 
